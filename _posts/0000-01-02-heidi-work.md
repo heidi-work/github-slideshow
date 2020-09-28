@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Welcom to our 2nd Slide!
+title: Welcome to our 2nd Slide!
 ---
 
 Verifying this works?
